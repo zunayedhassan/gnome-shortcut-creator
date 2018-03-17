@@ -1,0 +1,1 @@
+# Gnome Shortcut File Creator
