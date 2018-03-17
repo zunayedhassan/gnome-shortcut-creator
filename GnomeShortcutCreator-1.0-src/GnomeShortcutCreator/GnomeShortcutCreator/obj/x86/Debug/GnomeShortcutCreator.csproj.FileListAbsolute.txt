@@ -1,0 +1,6 @@
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/bin/Debug/GnomeShortcutCreator.exe
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/bin/Debug/GnomeShortcutCreator.pdb
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/obj/x86/Debug/GnomeShortcutCreator.csproj.CoreCompileInputs.cache
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/obj/x86/Debug/GnomeShortcutCreator.exe
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/obj/x86/Debug/GnomeShortcutCreator.pdb
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/obj/x86/Debug/GnomeShortcutCreator.csprojResolveAssemblyReference.cache

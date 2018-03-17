@@ -1,0 +1,3 @@
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/bin/Release/GnomeShortcutCreator.exe
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/obj/x86/Release/GnomeShortcutCreator.csproj.CoreCompileInputs.cache
+/home/zunayedhassan/Documents/MonoProjects/GnomeShortcutCreator/GnomeShortcutCreator/obj/x86/Release/GnomeShortcutCreator.exe

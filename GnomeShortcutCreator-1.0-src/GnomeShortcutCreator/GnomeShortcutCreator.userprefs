@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CA1902E9-0C1E-42FD-836A-9BDC0EC5E54B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GnomeShortcutCreator/MainWindow.cs">
+    <Files>
+      <File FileName="GnomeShortcutCreator/Program.cs" Line="13" Column="31" />
+      <File FileName="GnomeShortcutCreator/Settings.cs" Line="9" Column="64" />
+      <File FileName="GnomeShortcutCreator/MainWindow.cs" Line="3" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GnomeShortcutCreator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
