@@ -7,7 +7,7 @@ This program creates shortcut (or make links to application) on Gnome Desktop En
 https://github.com/zunayedhassan/gnome-shortcut-creator/raw/master/GnomeShortcutCreator-1.0-bin_linux.zip
 
 ## Instruction:
-* Install ```libmono```
+* Install Mono (may be under `libmono` or `mono-core` packages) and `gtk-sharp2`, e.g. `sudo dnf install mono-core gtk-sharp2` for Fedora.
 * Open terminal and type ```mono GnomeShortcutCreator.exe``` and now hit [ENTER]
 
 ## Usage:
